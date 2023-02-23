@@ -1,8 +1,9 @@
+[![MasterHead]()]
 <h1 align="center">Hi 👋, I'm Rohan Wandre</h1>
 
 <h3 align="center">A passionate Full Stack Developer, React Native Developer from Mumbai</h3>
 
-<img align="center" alt="Coding" width="500" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
+<img align="center" alt="Coding" width="1200" src="https://cdn.dribbble.com/users/6569/screenshots/15051410/media/4fc0d807ed5a350887a47b1af60f5bf7.png?compress=1&resize=1000x750&vertical=top"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan9024&label=Profile%20views&color=0e75b6&style=flat" alt="rohan9024" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohan9024" alt="rohan9024" /></a> </p>
