@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate Full Stack Developer, React Native Developer from Mumbai</h3>
 
-<img align="center" alt="Coding" width="1200" src="https://cdn.dribbble.com/users/6569/screenshots/15051410/media/4fc0d807ed5a350887a47b1af60f5bf7.png?compress=1&resize=1000x750&vertical=top"/>
+<img align="center" alt="Coding" width="1200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fpinterest--311381761734186207%2F&psig=AOvVaw0nOQFApK3GiBpO8qcJQKMY&ust=1693717330138000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIjLiPCSi4EDFQAAAAAdAAAAABAJ"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan9024&label=Profile%20views&color=0e75b6&style=flat" alt="rohan9024" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohan9024" alt="rohan9024" /></a> </p>
